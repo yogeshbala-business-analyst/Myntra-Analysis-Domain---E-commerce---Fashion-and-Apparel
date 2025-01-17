@@ -11,6 +11,8 @@ Brand Perception: Understand how customers perceive Myntra through social media 
   
 - Competitive Landscape: Evaluate Myntra's position relative to competitors and identify opportunities for differentiation.
 
+![Designer (11)](https://github.com/user-attachments/assets/2fc13c6b-3f91-4d10-b3e0-c99888cc8997)
+
 # Approach:
 
 ## 1. Data Collection:
