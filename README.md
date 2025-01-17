@@ -29,28 +29,28 @@ Brand Perception: Understand how customers perceive Myntra through social media 
 ## 4. Market Trends Identification:
    - Track fashion trends and customer preferences from social media posts and influencer content.
 
-5. Competitive Landscape Assessment:
+## 5. Competitive Landscape Assessment:
    - Compare Myntra with key competitors like Amazon Fashion, Flipkart, and AJIO.
      
    - Analyze differences in customer satisfaction, product range, and market presence.
 
-6. Strategic Recommendations:
+## 6. Strategic Recommendations:
    - Develop actionable strategies based on the analysis to enhance Myntra's market position.
 Detailed Task Breakdown
 
- Step 1: Introduction to Social Media and Review Analysis
+ ## Step 1: Introduction to Social Media and Review Analysis
 1. Understanding Social Media and Review Analysis:
    - Social media and reviews provide insights into customer opinions, market trends, and brand perception.
      
 
-2. Setting Up:
+## 2. Setting Up:
    - Choose platforms to focus on (e.g., Twitter, Instagram, Facebook, Google Reviews).
      
    - Identify relevant hashtags (Myntra, fashion, style, onlineShopping).
 
- Step 2: Data Collection
+ ## Step 2: Data Collection
  
-1. Collecting Social Media Posts:
+## 1. Collecting Social Media Posts:
    - Search for posts mentioning Myntra on Twitter, Instagram, and Facebook.
   
    - Identify the context of these posts (positive, negative, neutral).
@@ -58,7 +58,7 @@ Detailed Task Breakdown
    - Look for themes such as product quality, delivery service, and customer service.
 
 
-2. Collecting Customer Reviews:
+## 2. Collecting Customer Reviews:
    - Visit popular review sites like Google Reviews, Trustpilot, and Myntra’s product pages.
      
    - Extract key points from customer reviews.
